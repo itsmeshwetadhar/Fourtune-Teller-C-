@@ -10,3 +10,6 @@ Dynamic Interaction: Users can interact with the program multiple times to recei
 Programming Language: C++
 Data Structures: Arrays, Linked Lists, Queues
 Development Environment: Visual Studio / Eclipse / Your Preferred IDE
+
+# Ouput
+![Screenshot 2024-07-25 205255](https://github.com/user-attachments/assets/758fef87-3115-4106-adce-ae6c944204f0)
